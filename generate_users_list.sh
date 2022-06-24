@@ -20,6 +20,3 @@ echo "$line" >> $result_file
 #[ $i -eq 10 ] && exit 7 #FIXME comment this line
 
 done
-
-
-#echo "user001,qweasdzxc" > $result_file
